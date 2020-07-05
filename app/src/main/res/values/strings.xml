@@ -2,5 +2,10 @@
     <string name="app_name">Community</string>
     <string name="splash_screen">Splash Screen</string>
     <string name="home_screen">Home Screen</string>
-    <string name="on_boarding_screen">On Boarding Screen</string>
+    <string name="on_boarding_screen">Community</string>
+    <string name="sign_up_link">Don\'t have an account? Sign up</string>
+    <string name="login">Login</string>
+    <string name="forget_your_password">Forget your password?</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
 </resources>
