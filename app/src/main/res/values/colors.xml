@@ -3,4 +3,5 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#3c77cb</color>
     <color name="colorAccent">#D81B60</color>
+    <color name="login_bg_color">#75a5ff</color>
 </resources>
