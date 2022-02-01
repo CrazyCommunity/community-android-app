@@ -1,2 +1,2 @@
 # community-android-app
-This app is going to help finding similar group/type of people surround you.
+This is a Android app which is going to help finding similar group/type of people surround you.
